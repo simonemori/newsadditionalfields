@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-03-12T09:16:32Z" product-name="publications">
+		<header/>
+		<body>
+			<trans-unit id="tx_news_domain_model_news.tabs.publications">
+				<source>Publications Info</source>
+			</trans-unit>
+	
+			<trans-unit id="tx_news_domain_model_news.palette.palettePublicationsCode">
+				<source>Publications Code</source>
+			</trans-unit>
+					
+			<trans-unit id="tx_news_domain_model_news.palette.palettePublicationsAuthor">
+				<source>Publications Author</source>
+			</trans-unit>
+			
+			
+			<trans-unit id="tx_news_domain_model_news.publications_id">
+				<source>Publication Id</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_log">
+				<source>Publication Log</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_isbn10">
+				<source>Publication Isbn10</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_isbn13">
+				<source>Publication Isbn13</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_issn">
+				<source>Publication Issn</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_publisher">
+				<source>Publisher</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_partners">
+				<source>Partners</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_year">
+				<source>Publication Year</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_author">
+				<source>Publication Author</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_corporate">
+				<source>Publication Corporate</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_format">
+				<source>Publication Format</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_language">
+				<source>Publication Language</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_reference">
+				<source>Journal or series</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_pages">
+				<source>Pages</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_owner">
+				<source>Owner</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_starttime">
+				<source>Date Start</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.publications_endtime">
+				<source>Date End</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

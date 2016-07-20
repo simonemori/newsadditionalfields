@@ -2,6 +2,7 @@ TYPO3 Extension "newsadditionalfields"
 ============================
 
 This extension simply adds fields to a news record of EXT:news.
+This extension has been created starting from a clone of https://github.com/cyberhouse/t3ext-newsauthor
 
 **Required**
 
